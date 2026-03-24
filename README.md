@@ -1,4 +1,4 @@
-# Customer-Segmentation-Churn-Risk-Analysis
+# Customer Segmentation Churn Risk Analysis
 
 ## 📊 Project Overview
 Analyzed 300 customer records to identify high-value demographics and churn risks. This project demonstrates end-to-end data analysis skills—moving from raw data cleaning in **Excel** to validation in **SQL** and finally to an interactive dashboard in **Power BI**.
