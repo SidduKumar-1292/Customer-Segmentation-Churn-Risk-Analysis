@@ -1,0 +1,301 @@
+Customer_id,Age,Gender,Annual_income_k$,Spending_score,Customer_Status
+C0001,58,Female,71,38.5,Regular
+C0002,25,Female,139,86,Loyal
+C0003,19,Male,71,37.6,Regular
+C0004,65,Male,84,63,Regular
+C0005,35,Male,126,74.3,Loyal
+C0006,33,Female,139,65.3,Regular
+C0007,32,Female,22,15.5,At Risk
+C0008,26,Male,114,69.8,Regular
+C0009,65,Male,101,53,Regular
+C0010,24,Male,118,53.7,Regular
+C0011,61,Male,57,54.2,Regular
+C0012,65,Female,134,80.6,Loyal
+C0013,52,Male,47,31.7,Regular
+C0014,23,Female,21,16.2,At Risk
+C0015,55,Male,115,72.8,Loyal
+C0016,45,Female,21,24.8,At Risk
+C0017,20,Female,36,47.1,Regular
+C0018,19,Male,124,74.3,Loyal
+C0019,23,Male,49,33.6,Regular
+C0020,31,Female,133,87.3,Loyal
+C0021,32,Male,61,64,Regular
+C0022,50,Male,27,15.5,At Risk
+C0023,56,Male,81,47.7,Regular
+C0024,19,Male,112,64.4,Regular
+C0025,53,Male,98,70.2,Loyal
+C0026,30,Male,69,48.9,Regular
+C0027,63,Female,131,78.7,Loyal
+C0028,59,Female,98,66.1,Regular
+C0029,62,Female,101,42.8,Regular
+C0030,52,Male,112,70.8,Loyal
+C0031,44,Female,86,47.8,Regular
+C0032,32,Male,122,86.6,Loyal
+C0033,46,Male,79,48.1,Regular
+C0034,55,Female,35,40.3,Regular
+C0035,35,Male,135,64.8,Regular
+C0036,69,Female,19,8.8,At Risk
+C0037,18,Female,28,39.3,Regular
+C0038,66,Female,104,71.8,Loyal
+C0039,69,Female,72,37.7,Regular
+C0040,28,Female,32,20.3,At Risk
+C0041,62,Female,25,22.9,At Risk
+C0042,45,Male,22,19.1,At Risk
+C0043,39,Male,78,51.6,Regular
+C0044,35,Female,66,47.6,Regular
+C0045,27,Male,20,28.1,At Risk
+C0046,31,Male,54,35.2,Regular
+C0047,66,Male,76,28.1,At Risk
+C0048,39,Female,47,45,Regular
+C0049,24,Male,136,80.1,Loyal
+C0050,23,Male,44,30,Regular
+C0051,42,Female,70,56.4,Regular
+C0052,24,Male,134,58.1,Regular
+C0053,40,Male,80,59.8,Regular
+C0054,40,Male,109,69.8,Regular
+C0055,56,Male,57,48.5,Regular
+C0056,34,Male,44,32.8,Regular
+C0057,69,Male,56,38.2,Regular
+C0058,20,Male,94,74.4,Loyal
+C0059,64,Female,42,46.8,Regular
+C0060,47,Male,21,24.1,At Risk
+C0061,52,Male,94,33.5,Regular
+C0062,25,Male,111,67,Regular
+C0063,42,Male,116,67.4,Regular
+C0064,23,Female,65,63.9,Regular
+C0065,53,Female,34,42.7,Regular
+C0066,36,Female,77,47.6,Regular
+C0067,58,Male,41,30,Regular
+C0068,57,Female,92,48,Regular
+C0069,41,Male,45,44.6,Regular
+C0070,54,Female,25,20.2,At Risk
+C0071,30,Female,103,68.4,Regular
+C0072,63,Male,124,46.9,Regular
+C0073,22,Female,109,65.8,Regular
+C0074,20,Female,32,55.6,Regular
+C0075,60,Female,144,63.1,Regular
+C0076,32,Male,102,68.9,Regular
+C0077,67,Male,18,23.1,At Risk
+C0078,36,Female,122,82.1,Loyal
+C0079,23,Male,140,93.2,Loyal
+C0080,32,Male,42,51.6,Regular
+C0081,24,Male,125,68,Regular
+C0082,42,Female,107,52.9,Regular
+C0083,35,Male,132,81,Loyal
+C0084,47,Female,54,47.9,Regular
+C0085,58,Male,126,77.9,Loyal
+C0086,41,Male,60,23.1,At Risk
+C0087,28,Female,148,63.5,Regular
+C0088,41,Female,84,56.5,Regular
+C0089,40,Male,138,90,Loyal
+C0090,31,Female,134,94.2,Loyal
+C0091,60,Female,126,72.3,Loyal
+C0092,35,Male,83,50.1,Regular
+C0093,62,Female,97,34.1,Regular
+C0094,61,Male,77,47.8,Regular
+C0095,59,Male,37,42,Regular
+C0096,22,Female,86,55.5,Regular
+C0097,56,Male,130,73,Loyal
+C0098,58,Male,77,59.5,Regular
+C0099,28,Male,133,56.6,Regular
+C0100,52,Female,112,71,Loyal
+C0101,64,Female,101,42.9,Regular
+C0102,33,Male,22,23.9,At Risk
+C0103,28,Female,141,63.8,Regular
+C0104,47,Male,98,56.3,Regular
+C0105,42,Female,61,44.4,Regular
+C0106,35,Female,139,86.8,Loyal
+C0107,58,Female,69,27,At Risk
+C0108,62,Male,105,36.6,Regular
+C0109,53,Male,81,61.3,Regular
+C0110,32,Female,102,66,Regular
+C0111,61,Female,86,35.7,Regular
+C0112,38,Male,85,69.1,Regular
+C0113,67,Male,17,2.4,At Risk
+C0114,67,Female,147,67.1,Regular
+C0115,21,Male,63,39.1,Regular
+C0116,32,Female,36,25,At Risk
+C0117,70,Male,76,19.8,At Risk
+C0118,20,Female,119,83.8,Loyal
+C0119,69,Female,140,81.3,Loyal
+C0120,38,Male,76,56.1,Regular
+C0121,43,Male,136,57.8,Regular
+C0122,35,Male,140,73.2,Loyal
+C0123,22,Male,129,68.8,Regular
+C0124,31,Male,19,31.8,Regular
+C0125,54,Female,38,34.6,Regular
+C0126,63,Male,90,44.1,Regular
+C0127,38,Female,71,37,Regular
+C0128,31,Male,118,81.7,Loyal
+C0129,59,Male,77,31.1,Regular
+C0130,49,Female,93,47.9,Regular
+C0131,43,Female,109,60,Regular
+C0132,59,Male,136,56.2,Regular
+C0133,47,Female,150,78.8,Loyal
+C0134,27,Male,103,66.1,Regular
+C0135,34,Male,123,88.7,Loyal
+C0136,26,Male,99,53.6,Regular
+C0137,33,Female,105,81.2,Loyal
+C0138,65,Female,131,69.2,Regular
+C0139,53,Male,84,38.7,Regular
+C0140,52,Male,93,54.2,Regular
+C0141,34,Male,79,58.8,Regular
+C0142,65,Male,74,49.9,Regular
+C0143,55,Female,45,13.5,At Risk
+C0144,45,Male,64,46.4,Regular
+C0145,55,Male,95,51.4,Regular
+C0146,43,Female,45,51.3,Regular
+C0147,41,Female,62,33.9,Regular
+C0148,32,Male,64,58,Regular
+C0149,26,Female,70,54.5,Regular
+C0150,50,Male,138,64.3,Regular
+C0151,49,Male,85,54.8,Regular
+C0152,23,Female,149,87.5,Loyal
+C0153,66,Male,87,52.1,Regular
+C0154,21,Female,40,48.5,Regular
+C0155,25,Male,64,54.5,Regular
+C0156,27,Male,90,71.4,Loyal
+C0157,58,Female,73,46.9,Regular
+C0158,28,Female,107,80.5,Loyal
+C0159,68,Female,60,39.5,Regular
+C0160,61,Male,92,40.9,Regular
+C0161,45,Male,18,21.3,At Risk
+C0162,56,Male,47,35.2,Regular
+C0163,22,Male,85,66.7,Regular
+C0164,42,Female,26,11.4,At Risk
+C0165,42,Female,28,20.4,At Risk
+C0166,56,Female,89,58.7,Regular
+C0167,47,Male,47,21.7,At Risk
+C0168,51,Female,140,56,Regular
+C0169,34,Female,41,37.8,Regular
+C0170,53,Female,18,40.2,Regular
+C0171,18,Female,87,60.6,Regular
+C0172,61,Male,135,82.2,Loyal
+C0173,64,Male,137,78.8,Loyal
+C0174,25,Female,127,63.6,Regular
+C0175,61,Male,102,65.5,Regular
+C0176,52,Female,62,38.5,Regular
+C0177,66,Male,28,33.7,Regular
+C0178,35,Male,79,61,Regular
+C0179,67,Female,137,58.2,Regular
+C0180,59,Female,44,14.5,At Risk
+C0181,39,Female,31,49.2,Regular
+C0182,25,Female,117,54.9,Regular
+C0183,36,Male,140,93.9,Loyal
+C0184,45,Female,33,44.1,Regular
+C0185,28,Male,28,41.8,Regular
+C0186,47,Female,53,56.3,Regular
+C0187,18,Male,53,64.5,Regular
+C0188,64,Female,92,59.8,Regular
+C0189,64,Male,36,19.8,At Risk
+C0190,34,Male,78,62.6,Regular
+C0191,50,Female,45,13.6,At Risk
+C0192,66,Female,121,60.1,Regular
+C0193,29,Male,72,48.3,Regular
+C0194,50,Female,148,81.1,Loyal
+C0195,24,Female,112,74.5,Loyal
+C0196,58,Male,130,68,Regular
+C0197,37,Female,128,83,Loyal
+C0198,58,Female,91,66.6,Regular
+C0199,50,Female,124,48.9,Regular
+C0200,56,Female,93,39.8,Regular
+C0201,30,Female,30,14,At Risk
+C0202,27,Female,40,53.3,Regular
+C0203,41,Male,68,47.4,Regular
+C0204,66,Male,69,54.4,Regular
+C0205,28,Female,82,43.3,Regular
+C0206,52,Female,35,10.9,At Risk
+C0207,67,Male,55,44.9,Regular
+C0208,51,Female,76,61.5,Regular
+C0209,18,Female,59,40.3,Regular
+C0210,56,Male,34,23.1,At Risk
+C0211,38,Female,55,26.2,At Risk
+C0212,49,Female,15,39.2,Regular
+C0213,19,Male,119,64.1,Regular
+C0214,25,Female,130,74.2,Loyal
+C0215,41,Female,135,55.6,Regular
+C0216,69,Female,89,60.4,Regular
+C0217,37,Female,23,13.5,At Risk
+C0218,33,Female,74,47.8,Regular
+C0219,21,Male,88,65.7,Regular
+C0220,33,Female,87,64.6,Regular
+C0221,54,Male,131,84,Loyal
+C0222,23,Male,33,33.1,Regular
+C0223,23,Female,74,62.4,Regular
+C0224,64,Female,82,29.8,At Risk
+C0225,49,Male,65,37.9,Regular
+C0226,70,Male,123,42.2,Regular
+C0227,22,Female,44,40.6,Regular
+C0228,66,Male,72,35.3,Regular
+C0229,52,Male,53,53.7,Regular
+C0230,67,Male,83,24.4,At Risk
+C0231,26,Male,51,37.4,Regular
+C0232,26,Male,33,33.1,Regular
+C0233,60,Male,30,42,Regular
+C0234,48,Female,57,52.6,Regular
+C0235,53,Male,93,35.3,Regular
+C0236,28,Female,88,64.2,Regular
+C0237,34,Female,127,72.4,Loyal
+C0238,51,Male,46,52.2,Regular
+C0239,56,Female,134,61.1,Regular
+C0240,45,Female,92,49.2,Regular
+C0241,31,Female,118,55.5,Regular
+C0242,52,Male,84,32.9,Regular
+C0243,66,Male,143,81.3,Loyal
+C0244,64,Male,141,65.4,Regular
+C0245,62,Male,127,68.7,Regular
+C0246,30,Female,35,40.7,Regular
+C0247,63,Male,25,25,At Risk
+C0248,37,Male,125,49.8,Regular
+C0249,43,Female,97,67.4,Regular
+C0250,60,Male,79,33.3,Regular
+C0251,59,Male,21,5.7,At Risk
+C0252,41,Male,38,35.5,Regular
+C0253,46,Female,73,28.1,At Risk
+C0254,51,Male,20,33.3,Regular
+C0255,46,Female,83,37.7,Regular
+C0256,25,Female,25,21.1,At Risk
+C0257,33,Female,59,58.5,Regular
+C0258,32,Female,135,67.5,Regular
+C0259,22,Female,147,68.1,Regular
+C0260,39,Male,128,85.5,Loyal
+C0261,19,Female,86,38.8,Regular
+C0262,55,Female,61,52.2,Regular
+C0263,53,Female,126,50.3,Regular
+C0264,32,Male,140,61.6,Regular
+C0265,55,Female,38,18.7,At Risk
+C0266,32,Female,135,61.4,Regular
+C0267,18,Male,104,72.6,Loyal
+C0268,22,Female,119,52,Regular
+C0269,63,Female,100,31.7,Regular
+C0270,58,Male,97,63,Regular
+C0271,21,Female,41,29.6,At Risk
+C0272,32,Male,56,35.8,Regular
+C0273,22,Female,99,50,Regular
+C0274,20,Female,120,54.1,Regular
+C0275,39,Female,141,84.4,Loyal
+C0276,22,Male,88,59.6,Regular
+C0277,50,Male,117,71.6,Loyal
+C0278,33,Male,24,28.7,At Risk
+C0279,35,Male,131,83,Loyal
+C0280,60,Female,37,27.3,At Risk
+C0281,49,Male,95,37.7,Regular
+C0282,31,Male,79,52.5,Regular
+C0283,52,Male,97,71,Loyal
+C0284,26,Female,44,21.5,At Risk
+C0285,64,Female,118,69.3,Regular
+C0286,54,Female,146,86.9,Loyal
+C0287,54,Female,15,20.7,At Risk
+C0288,48,Female,133,67.1,Regular
+C0289,33,Male,120,86.7,Loyal
+C0290,68,Male,28,3.2,At Risk
+C0291,48,Female,63,40,Regular
+C0292,69,Female,147,64.2,Regular
+C0293,44,Male,107,67,Regular
+C0294,30,Female,142,77.4,Loyal
+C0295,24,Female,128,90.4,Loyal
+C0296,24,Male,28,16.9,At Risk
+C0297,60,Female,67,22,At Risk
+C0298,45,Female,83,54,Regular
+C0299,40,Female,48,19.8,At Risk
+C0300,45,Female,88,42.7,Regular
